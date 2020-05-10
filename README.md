@@ -3,4 +3,6 @@ Welcome to the SwiftUI Screen Library - iOS screen layouts, single app screen UI
 
 <h1>Screens</h1>
 
-<a href="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/yahoo_weather_sun_and_moon.gif">Sinple gragh with masked rectangle</a>
+<a href="">Sinple gragh with masked rectangle</a>
+<strong><strong>
+<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/yahoo_weather_sun_and_moon.gif" alt="Sinple gragh with masked rectangle">
