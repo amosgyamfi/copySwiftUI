@@ -3,6 +3,9 @@ Welcome to the SwiftUI Screen Library - iOS screen layouts, single app screen UI
 
 <h1>Screens</h1>
 
+##Dark Mode: Using Default Colors and System Colors
+<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Dark%20Mode/darkmode.gif" alt="Popup">
+
 <a href="">Sinple graph with masked rectangle</a>
 <strong><strong>
 <img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/yahoo_weather_sun_and_moon.gif" alt="Sinple gragh with masked rectangle">
