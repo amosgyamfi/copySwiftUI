@@ -3,6 +3,9 @@ Welcome to the SwiftUI Screen Library - iOS screen layouts, single app screen UI
 
 <h1>Screens</h1>
 
+##Alarm Screen
+<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Alarm%20Screen/alarm_screen.png" alt="Alarm Screen">
+
 ##Dark Mode: Using Default Colors and System Colors
 <img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Dark%20Mode/darkmode.gif" alt="Popup">
 
