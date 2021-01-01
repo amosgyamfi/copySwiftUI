@@ -9,12 +9,9 @@ Welcome to the SwiftUI Screen Library - iOS screen layouts, single app screen UI
 ##Alarm Screen
 <img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Alarm%20Screen/alarm_screen.png" alt="Alarm Screen">
 
-##Dark Mode: Using Default Colors and System Colors
-<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Dark%20Mode/darkmode.gif" alt="Popup">
+#2021
 
-<a href="">Sinple graph with masked rectangle</a>
-<strong><strong>
-<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/yahoo_weather_sun_and_moon.gif" alt="Sinple gragh with masked rectangle">
+##Day1: 01/01/2021: Ordering Onboarding
+<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/2021_DAILY/day1_order_onboarding.gif" alt="Popup">
 
-##Popup Screen
-<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/Popup/popup.png" alt="Popup">
+
