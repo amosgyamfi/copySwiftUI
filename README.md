@@ -21,9 +21,6 @@ Welcome to the SwiftUI Screen Library - iOS screen layouts, single app screen UI
 <img src="https://gist.github.com/amosgyamfi/f184037ccb2a64166134683475dbf509#file-2021_day3_track_order-swift" alt="Day3">
 
 
-## Day 3: 03/01/2021: Track order. <a href="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/2021_DAILY/day3_track_order.png">Gist</a>
-<img src="https://gist.github.com/amosgyamfi/f184037ccb2a64166134683475dbf509#file-2021_day3_track_order-swift" alt="Day3">
-
 
 
 
