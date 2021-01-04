@@ -17,11 +17,11 @@ Welcome to the SwiftUI Screen Library - iOS screen layouts, single app screen UI
 ## Day 2: 02/01/2021: Track Order. <a href="https://gist.github.com/amosgyamfi/ef815417e5fdad8c3116e63aea357fcd#file-2021_day2_ordering-swift">Gist</a>
 <img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/2021_DAILY/day2_ordering.gif" alt="Day2">
 
-## Day 3: 01/03/2021: Order Onboarding. <a href="https://gist.github.com/amosgyamfi/38171e1ef2d5f8f0650a64bff9675844#file-2021_day1_order_onboarding-swift">Gist</a>
-<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/2021_DAILY/day1_order_onboarding.gif" alt="Day3">
+## Day 3: 01/03/2021: Order Onboarding. <a href="https://gist.github.com/amosgyamfi/f184037ccb2a64166134683475dbf509">Gist</a>
+<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/2021_DAILY/day3_track_order.png" alt="Day3">
 
-## Day 4: 01/04/2021: Order Onboarding. <a href="https://gist.github.com/amosgyamfi/38171e1ef2d5f8f0650a64bff9675844#file-2021_day1_order_onboarding-swift">Gist</a>
-<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/2021_DAILY/day1_order_onboarding.gif" alt="Day4">
+## Day 4: 01/04/2021: Order Onboarding. <a href="https://gist.github.com/amosgyamfi/cdc8f28c8aa25aaeb6b695d52013fe96">Gist</a>
+<img src="https://github.com/amosgyamfi/swiftui-screen-library/blob/master/2021_DAILY/day4.png" alt="Day4">
 
 
 
