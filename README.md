@@ -1,5 +1,5 @@
-# SwiftUI Screen Library
-Welcome to the SwiftUI Screen Library - iOS screen layouts, single app screen UIs, iOS UIKits and data visualizations for your iOS next project. Browse through, find what fits best for you. Download the xCode project, (CMD + C) and (CMD + V) directly to your xCode project. You may consider sponsoring to create 1 SwiftUI screen per day in the whole of 2021.
+# SwiftUI: iOS UI Library
+Welcome to the iOS UI Library - iOS screen layouts, single app screen UIs, iOS UIKits and data visualizations for your iOS next project. Browse through, find what fits best for you. Download the xCode project, (CMD + C) and (CMD + V) directly to your xCode project. You may consider sponsoring to create 1 SwiftUI screen per day in the whole of 2021.
 
 <h1>Screens</h1>
 
