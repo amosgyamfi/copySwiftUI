@@ -1,4 +1,4 @@
-# SwiftUI iOS 16 Static Island
+# SwiftUI iOS 16 Static Island 📲
 SwiftUI clones of iOS 16 and first-class citizen Apple apps' screens. All in one place. The purpose of this repo is to help you master SwiftUI design, layout, and composition. Each screen is in the Xcode project. So, feel free to use the code for your projects.
 
 What you see on each screen is what you get from the Swift/SwiftUI files in the Xcode project. I am updating this repo weekly until the release of iOS 17. If you find this useful, you could consider sponsoring.
