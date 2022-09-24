@@ -1,8 +1,8 @@
 //
 //  iOS16ScreensIslandApp.swift
-//  iOS16ScreensIsland
+//  iOS16 Screens Island
 //
-//  Created by amos.gyamfi@getstream.io on 23.9.2022.
+//  https://www.macstories.net/stories/ios-16-the-macstories-review/
 //
 
 import SwiftUI

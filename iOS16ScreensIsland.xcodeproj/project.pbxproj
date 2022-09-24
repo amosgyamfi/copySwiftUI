@@ -11,6 +11,8 @@
 		4BFDBFA728DD1DD40080F560 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFDBFA628DD1DD40080F560 /* ContentView.swift */; };
 		4BFDBFA928DD1DD60080F560 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BFDBFA828DD1DD60080F560 /* Assets.xcassets */; };
 		4BFDBFAC28DD1DD60080F560 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BFDBFAB28DD1DD60080F560 /* Preview Assets.xcassets */; };
+		4BFDBFB428DD1E790080F560 /* VideoControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFDBFB328DD1E790080F560 /* VideoControlsView.swift */; };
+		4BFDBFB628DD74880080F560 /* VideoStatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFDBFB528DD74880080F560 /* VideoStatusView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		4BFDBFA628DD1DD40080F560 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4BFDBFA828DD1DD60080F560 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BFDBFAB28DD1DD60080F560 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4BFDBFB328DD1E790080F560 /* VideoControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoControlsView.swift; sourceTree = "<group>"; };
+		4BFDBFB528DD74880080F560 /* VideoStatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoStatusView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				4BFDBFA428DD1DD40080F560 /* iOS16ScreensIslandApp.swift */,
+				4BFDBFB228DD1DF00080F560 /* iOS16MinimalVideoPlayer */,
 				4BFDBFA628DD1DD40080F560 /* ContentView.swift */,
 				4BFDBFA828DD1DD60080F560 /* Assets.xcassets */,
 				4BFDBFAA28DD1DD60080F560 /* Preview Content */,
@@ -65,6 +70,15 @@
 				4BFDBFAB28DD1DD60080F560 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4BFDBFB228DD1DF00080F560 /* iOS16MinimalVideoPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				4BFDBFB328DD1E790080F560 /* VideoControlsView.swift */,
+				4BFDBFB528DD74880080F560 /* VideoStatusView.swift */,
+			);
+			path = iOS16MinimalVideoPlayer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,6 +153,8 @@
 			files = (
 				4BFDBFA728DD1DD40080F560 /* ContentView.swift in Sources */,
 				4BFDBFA528DD1DD40080F560 /* iOS16ScreensIslandApp.swift in Sources */,
+				4BFDBFB628DD74880080F560 /* VideoStatusView.swift in Sources */,
+				4BFDBFB428DD1E790080F560 /* VideoControlsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
