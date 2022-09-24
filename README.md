@@ -4,6 +4,7 @@ SwiftUI clones of iOS 16 and first-class citizen Apple apps' screens. All in one
 What you see on each screen is what you get from the Swift/SwiftUI files in the Xcode project. I am updating this repo weekly until the release of iOS 17. If you find this useful, you could consider sponsoring.
 
 ## The new minimal-look iOS 16 video player
+![iOS 16 video player](https://github.com/amosgyamfi/ios16-static-island/blob/master/Img/iOS16MinimalVideoPlayer.png)
 
 ---
 
