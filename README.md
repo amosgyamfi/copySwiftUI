@@ -8,7 +8,9 @@ What you see on each screen is what you get from the Swift/SwiftUI files in the 
 
 ---
 
-## iOS 16 video player: Live broadcast UI
+## iOS 16 video player: Live broadcast UI: [Swift files](https://github.com/amosgyamfi/ios16-static-island/tree/master/iOS16ScreensIsland/iOS16MinimalVideoPlayer)
+![iOS 16 video player](https://github.com/amosgyamfi/ios16-static-island/blob/master/Img/liveBroadcast.png)
+
 
 ---
 
